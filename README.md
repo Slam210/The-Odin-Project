@@ -16,6 +16,7 @@ Skills offered by the program:
 - Deploying Web Applications
 - Debugging and Troubleshooting
 - Collaboration in Agile Development Environments
+
 Through The Odin Project, I've not only gained a strong foundation in web development but also acquired essential problem-solving and collaboration skills. This self-directed learning experience has allowed me to work on real-world projects and showcase my abilities.
 
 Projects:
